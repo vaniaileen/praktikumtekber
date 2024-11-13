@@ -63,7 +63,7 @@ class AboutPage extends StatelessWidget {
                   'Vania Aileen Tertiabudi',
                   style: TextStyle(
                     fontFamily: 'DM Sans',
-                    fontSize: 24,
+                    fontSize: 30,
                     fontWeight: FontWeight.bold,
                     color: Color.fromARGB(255, 171, 111, 28)
                   ),
@@ -75,7 +75,7 @@ class AboutPage extends StatelessWidget {
                 const Text(
                   '5026221108',
                   style: TextStyle(
-                    fontSize: 18,
+                    fontSize: 22,
                     color: Color.fromARGB(255, 171, 111, 28),
                   ),
                 ),
@@ -91,7 +91,7 @@ class AboutPage extends StatelessWidget {
                   child: const Text(
                     'Fun Fact:\nGabisa makan daging kalo masih dalam tekstur asli,\n jadi mau dipaksa gmn pun ga pernah makan rendang.\n Enakan makan ayam gais.',
                     style: TextStyle(
-                      fontSize: 16,
+                      fontSize: 18,
                       color: Color(0xFFF5F5DC),
                     ),
                     textAlign: TextAlign.center,
